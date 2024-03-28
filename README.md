@@ -11,6 +11,6 @@ For this competition, I'll be experimenting with deep learning techniques that w
     └───data
         │   Training data: train.csv
         │   Testing data for competition (with empty DIC column): test.csv
-        │   Submission template for competition: plot-2.png
+        │   Submission template for competition: sample_submission.csv
     │   README.md
     │   .ipynb
